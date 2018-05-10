@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Base16 Color Schemes",
+		"BracketHighlighter",
+		"Colorsublime",
+		"CTags",
+		"Dracula Color Scheme",
+		"FileDiffs",
+		"HexViewer",
+		"Indent XML",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-javac",
+		"SublimeLinter-pylint",
+		"Sync View Scroll",
+		"Theme - Flatland",
+		"Theme - Soda",
+		"Theme - Sodarized",
+		"Theme - Spacegray",
+		"Toggle the View Read-Only"
+	]
+}
